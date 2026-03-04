@@ -1,0 +1,5 @@
+{
+  "name": "Cloud1",
+  "description": "A sophisticated AI chatbot with persistent chat history powered by Gemini and Firebase.",
+  "requestFramePermissions": []
+}
